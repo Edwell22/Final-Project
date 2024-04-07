@@ -1,62 +1,108 @@
-[
+{"Yummy":[
     {
-        "name": "Spaghetti Carbonara",
+        "name": "🍝 Spaghetti Carbonara",
         "ingredients": ["spaghetti", "eggs", "bacon", "Parmesan cheese", "black pepper"],
         "instructions": "Cook spaghetti according to package instructions. In a separate pan, cook bacon until crispy. In a bowl, whisk together eggs, Parmesan cheese, and black pepper. Once spaghetti is cooked, drain and add to the pan with bacon. Pour egg mixture over spaghetti and quickly toss until eggs are cooked. Serve immediately."
     },
     {
-        "name": "Chicken Stir Fry",
+        "name": "🍗 Chicken Stir Fry",
         "ingredients": ["chicken breast", "soy sauce", "vegetables (e.g., bell peppers, broccoli, carrots)", "garlic", "ginger", "rice"],
         "instructions": "Cut chicken breast into bite-sized pieces. In a wok or large skillet, heat oil over medium-high heat. Add minced garlic and ginger, then add chicken and cook until browned. Add chopped vegetables and soy sauce, stir-fry until vegetables are tender. Serve over cooked rice."
     },
     {
-        "name": "Chocolate Chip Cookies",
+        "name": "🍪 Chocolate Chip Cookies",
         "ingredients": ["butter", "white sugar", "brown sugar", "eggs", "vanilla extract", "all-purpose flour", "baking soda", "salt", "chocolate chips"],
         "instructions": "Preheat oven to 350 degrees F (175 degrees C). Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans. Bake for about 10 minutes in the preheated oven, or until edges are nicely browned."
     },
     {
-        "name": "Caesar Salad",
+        "name": "🥗 Caesar Salad",
         "ingredients": ["romaine lettuce", "Caesar dressing", "Parmesan cheese", "croutons"],
         "instructions": "Wash and dry romaine lettuce leaves. Tear into bite-sized pieces. In a large bowl, toss romaine lettuce with Caesar dressing until evenly coated. Sprinkle with Parmesan cheese and croutons. Serve immediately."
     },
     {
-        "name": "Grilled Cheese Sandwich",
+        "name": "🥪 Grilled Cheese Sandwich",
         "ingredients": ["bread", "cheese", "butter"],
         "instructions": "Spread butter on one side of each slice of bread. Place one slice of bread, buttered side down, on a skillet over medium heat. Layer cheese on top of the bread slice, then place the other slice of bread on top, buttered side up. Cook until the bottom slice of bread is golden brown and the cheese is melted, then flip and cook until the other side is golden brown. Serve hot."
     },
     {
-        "name": "Chicken Parmesan",
+        "name": "🍝 Chicken Parmesan",
         "ingredients": ["chicken breast", "breadcrumbs", "Parmesan cheese", "spaghetti sauce", "mozzarella cheese", "olive oil"],
         "instructions": "Preheat oven to 375 degrees F (190 degrees C). Coat chicken breasts in breadcrumbs mixed with Parmesan cheese. Heat olive oil in a skillet over medium-high heat, then cook chicken until golden brown on both sides. Place chicken in a baking dish, cover with spaghetti sauce, and top with mozzarella cheese. Bake in the preheated oven until cheese is melted and bubbly, about 25 minutes. Serve hot over cooked spaghetti."
     },
     {
-        "name": "Tacos",
+        "name": "🌮 Tacos",
         "ingredients": ["ground beef", "taco seasoning", "taco shells", "lettuce", "tomato", "cheddar cheese", "sour cream", "salsa"],
         "instructions": "Cook ground beef in a skillet over medium heat until browned. Drain excess fat, then stir in taco seasoning and water according to package instructions. Heat taco shells according to package instructions. Fill taco shells with cooked ground beef, lettuce, tomato, cheddar cheese, sour cream, and salsa. Serve hot."
     },
     {
-        "name": "Pasta Primavera",
+        "name": "🍝 Pasta Primavera",
         "ingredients": ["pasta", "mixed vegetables (e.g., broccoli, bell peppers, carrots)", "olive oil", "garlic", "Parmesan cheese"],
         "instructions": "Cook pasta according to package instructions. In a large skillet, heat olive oil over medium heat. Add minced garlic and cook until fragrant. Add mixed vegetables and cook until tender. Toss cooked pasta with vegetables, then sprinkle with Parmesan cheese. Serve hot."
     },
     {
-        "name": "Fruit Smoothie",
+        "name": "🍹 Fruit Smoothie",
         "ingredients": ["banana", "strawberries", "blueberries", "milk", "yogurt", "honey"],
         "instructions": "Combine banana, strawberries, blueberries, milk, yogurt, and honey in a blender. Blend until smooth. Serve immediately."
     },
     {
-        "name": "Grilled Salmon",
+        "name": "🐟 Grilled Salmon",
         "ingredients": ["salmon fillets", "lemon", "olive oil", "salt", "black pepper", "garlic powder"],
         "instructions": "Preheat grill to medium-high heat. Rub salmon fillets with olive oil, then season with salt, black pepper, and garlic powder. Place salmon on the grill, skin-side down, and cook for about 5-7 minutes. Carefully flip salmon and cook for another 5-7 minutes, or until fish flakes easily with a fork. Squeeze lemon juice over salmon before serving."
     },
     {
-        "name": "Margarita Pizza",
+        "name": "🍕 Margarita Pizza",
         "ingredients": ["pizza dough", "tomato sauce", "fresh mozzarella cheese", "fresh basil leaves", "olive oil", "salt", "black pepper"],
         "instructions": "Preheat oven to 450 degrees F (230 degrees C). Roll out pizza dough on a baking sheet. Spread tomato sauce evenly over the dough, leaving a small border around the edges. Tear fresh mozzarella cheese into small pieces and scatter over the sauce. Top with fresh basil leaves, then drizzle with olive oil. Season with salt and black pepper. Bake in the preheated oven for about 12-15 minutes, or until crust is golden brown and cheese is melted and bubbly. Slice and serve hot."
     },
     {
-        "name": "Vegetable Soup",
+        "name": "🥕 Vegetable Soup",
         "ingredients": ["carrots", "celery", "onion", "potatoes", "green beans", "tomatoes", "vegetable broth", "bay leaf", "salt", "black pepper"],
         "instructions": "Dice carrots, celery, onion, and potatoes. Cut green beans into bite-sized pieces. In a large pot, heat olive oil over medium heat. Add diced vegetables and sauté until slightly softened. Add diced tomatoes, vegetable broth, bay leaf, salt, and black pepper. Bring to a boil, then reduce heat and simmer for about 20-25 minutes, or until vegetables are tender. Remove bay leaf before serving."
+    },
+    {
+        "name": "🍤 Shrimp Scampi",
+        "ingredients": ["shrimp", "butter", "olive oil", "garlic", "lemon", "white wine", "parsley", "salt", "black pepper", "linguine pasta"],
+        "instructions": "Cook linguine pasta according to package instructions. In a large skillet, heat olive oil and butter over medium heat. Add minced garlic and cook until fragrant. Add shrimp to the skillet and cook until pink and opaque, about 2-3 minutes per side. Squeeze lemon juice over the shrimp and add white wine. Cook until the sauce reduces slightly. Season with salt, black pepper, and chopped parsley. Serve shrimp and sauce over cooked linguine pasta."
+    },
+    {
+        "name": "🌮 Beef Tacos",
+        "ingredients": ["ground beef", "taco seasoning", "taco shells", "lettuce", "tomato", "cheddar cheese", "sour cream", "salsa"],
+        "instructions": "Cook ground beef in a skillet over medium heat until browned. Drain excess fat, then stir in taco seasoning and water according to package instructions. Heat taco shells according to package instructions. Fill taco shells with cooked ground beef, lettuce, tomato, cheddar cheese, sour cream, and salsa. Serve hot."
+    },
+    {
+        "name": "🍔 Classic Cheeseburger",
+        "ingredients": ["ground beef", "burger buns", "American cheese", "lettuce", "tomato", "onion", "ketchup", "mustard", "pickles"],
+        "instructions": "Divide ground beef into equal-sized patties. Preheat grill or skillet over medium-high heat. Cook burgers for about 3-4 minutes per side, or until desired doneness. Place cheese slices on top of each burger during the last minute of cooking to melt. Toast burger buns on the grill. Assemble burgers with lettuce, tomato, onion, ketchup, mustard, and pickles. Serve hot."
+    },
+    {
+        "name": "🥦 Vegetarian Chili",
+        "ingredients": ["kidney beans", "black beans", "corn", "tomatoes", "bell peppers", "onion", "garlic", "chili powder", "cumin", "paprika", "vegetable broth"],
+        "instructions": "In a large pot, sauté diced onion and minced garlic until softened. Add diced bell peppers and cook until slightly tender. Stir in chili powder, cumin, and paprika. Add canned tomatoes, kidney beans, black beans, corn, and vegetable broth. Bring to a boil, then reduce heat and simmer for about 20-25 minutes, or until flavors are well combined and chili has thickened. Serve hot with optional toppings like shredded cheese, sour cream, and chopped cilantro."
+    },
+    {
+        "name": "🍄 Mushroom Risotto",
+        "ingredients": ["Arborio rice", "mushrooms", "shallots", "garlic", "white wine", "vegetable broth", "Parmesan cheese", "butter", "olive oil", "salt", "black pepper", "fresh parsley"],
+        "instructions": "In a large skillet, heat olive oil and butter over medium heat. Add minced shallots and garlic, and sauté until softened. Add sliced mushrooms and cook until browned and tender. Stir in Arborio rice and cook for a few minutes until lightly toasted. Pour in white wine and cook until absorbed. Gradually add vegetable broth, a ladleful at a time, stirring frequently until rice is creamy and cooked through. Stir in grated Parmesan cheese and chopped fresh parsley. Season with salt and black pepper to taste. Serve hot."
+    },
+    {
+        "name": "🍝 Baked Ziti",
+        "ingredients": ["ziti pasta", "marinara sauce", "ricotta cheese", "mozzarella cheese", "Parmesan cheese", "Italian seasoning", "salt", "black pepper"],
+        "instructions": "Preheat oven to 375°F (190°C). Cook ziti pasta according to package instructions until al dente. In a large bowl, combine cooked ziti pasta with marinara sauce, ricotta cheese, half of the mozzarella cheese, half of the Parmesan cheese, Italian seasoning, salt, and black pepper. Transfer the mixture to a greased baking dish. Sprinkle remaining mozzarella and Parmesan cheese over the top. Bake for about 25-30 minutes, or until the cheese is bubbly and golden brown. Let cool for a few minutes before serving."
+    },
+    {
+        "name": "🍝 Chicken Alfredo",
+        "ingredients": ["fettuccine pasta", "chicken breast", "butter", "garlic", "heavy cream", "Parmesan cheese", "salt", "black pepper", "fresh parsley"],
+        "instructions": "Cook fettuccine pasta according to package instructions until al dente. Season chicken breast with salt and black pepper. In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant. Add seasoned chicken breast and cook until browned and cooked through. Remove chicken from skillet and slice into strips. In the same skillet, pour in heavy cream and bring to a simmer. Stir in grated Parmesan cheese until melted and sauce is smooth. Add cooked fettuccine pasta and sliced chicken back to the skillet, tossing to coat in the sauce. Serve hot, garnished with fresh parsley."
+    },
+    {
+        "name": "🥩 Beef Stew",
+        "ingredients": ["beef chuck roast", "potatoes", "carrots", "onion", "garlic", "tomato paste", "beef broth", "red wine", "bay leaf", "thyme", "salt", "black pepper"],
+        "instructions": "Cut beef chuck roast into bite-sized pieces. In a large pot or Dutch oven, heat olive oil over medium-high heat. Add beef and cook until browned on all sides. Remove beef from pot and set aside. In the same pot, add diced onion and minced garlic, and cook until softened. Stir in tomato paste and cook for a few minutes. Pour in red wine and beef broth, scraping up any browned bits from the bottom of the pot. Return beef to the pot, along with diced potatoes, carrots, bay leaf, and thyme. Bring to a boil, then reduce heat to low and simmer for about 2-3 hours, or until beef is tender and flavors are well combined. Season with salt and black pepper to taste. Serve hot."
+    },
+    {
+        "name": "🍋 Lemon Garlic Roasted Chicken",
+        "ingredients": ["whole chicken", "lemon", "garlic", "olive oil", "salt", "black pepper", "thyme", "rosemary"],
+        "instructions": "Preheat oven to 425°F (220°C). Rinse whole chicken and pat dry."
     }
 ]
+}
