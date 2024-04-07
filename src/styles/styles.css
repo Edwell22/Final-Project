@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fccd;
+}
+
+header {
+    background-color: #EA3C12;
+    color: white;
+    padding: 20px;
+    text-align: center;
+        height: 100px; /* Change the value to whatever height you want */
+    
+    
+    
+}
+#kings{
+    text-align: left;
+    margin-top: 20px;
+}
+
+
+footer{
+    background-color: #EA3C12;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+#searchInput {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#searchButton {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#searchButton:hover {
+    background-color: #0056b3;
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+.recipe-details {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.recipe-details img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.recipe-details h2 {
+    margin-top: 0;
+}
+
+.recipe-details p {
+    margin: 5px 0;
+}
+
+img[alt="logo"] {
+    max-width: 150px;
+    height: auto;
+    float: left;
+    
+    
+}
+
+.hero {
+    text-align: center; /* Center the content horizontally */
+    max-width: 900px; /* Set the maximum width of the hero image container */
+    margin: 0 auto; /* Center the container horizontally */
+}
+
+/* Ensure the image inside the picture element does not exceed the maximum width */
+.hero img {
+    width: 100%; /* Set the maximum width of the image to 100% of its container */
+    height: auto; /* Allow the height to adjust automatically to maintain aspect ratio */
+}
+
+.hr{
+
+    color: rgb(14, 209, 31);
+    background-color: rgb(14, 243, 14);
+    height: 20px;
+    border: none;
+
+}

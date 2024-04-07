@@ -2,14 +2,53 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Recipe App</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Poppins:wght@300&family=Quicksand&family=Raleway&family=Roboto:ital,wght@1,300&display=swap" rel="stylesheet">
+    <meta name="description" content="Final Project  For Edwell Kakunguwo WDD 330: Web Frontend Development">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://edwell22.github.io/Final-Project/src/index.html">
+    <meta name="author" content="Edwell Kakunguwo">
+    <link rel="stylesheet" href="styles/styles.css">
 </head>
 <body>
-    <h1>Recipe App</h1>
-    <div id="recipes"></div>
+    <header>
+        <img src="images/logo2.webp" alt="logo">
+        <h1 id="kings">Recipe App</h1>
+    </header>
 
-    <script src="script.js"></script>
+        <div class="hero">
+            <picture>
+              <source srcset="images/small.webp" media="(max-width: 500px)">
+              <source srcset="images/middle.webp" media="(max-width: 750px)">
+              <img src="images/zero.webp" width="900" alt="Portal Hero Image">
+            </picture>
+            <h1>Welcome to our recipe app community!</h1>
+  <p>We are thrilled to have you join us on this culinary journey. Whether you're a seasoned chef or just beginning your cooking adventures, this app is designed to inspire and delight your taste buds. From mouthwatering main courses to delectable desserts, our extensive collection of recipes has something for everyone. Explore a world of flavors, discover new ingredients, and create memorable meals to share with loved ones.</p>
+  <p>Our community is filled with passionate food enthusiasts who are eager to share their favorite recipes, tips, and tricks. Don't hesitate to ask questions, seek advice, or contribute your own culinary creations. Together, we can elevate our cooking skills and create a vibrant, supportive community centered around the joy of cooking.</p>
+  <p>So, let's grab our aprons, sharpen our knives, and embark on this exciting culinary adventure together. Welcome aboard!</p>
+
+          </div>
+          <br>
+          <hr>
+    <main id="recipeDetails">
+        <input type="text" id="searchInput" placeholder="Search recipes...">
+        <button id="searchButton">Search</button>
+        <!-- Recipe details will be dynamically added here -->
+    </main>
+    <footer><div class="social" >
+        <a href="https://facebook.com">
+            <img src="images/facebook.png" alt="fb icon"/>
+        </a>
+        <a href="https://twitter.com">
+            <img src="images/twitter.png" alt="twitter icon"/>
+        </a>
+        <a href="https://instagram.com">
+            <img src="images/instagram.png" alt="instagram icon"/><script src="scripts/script.js"></script></footer>
+    
 </body>
 </html>

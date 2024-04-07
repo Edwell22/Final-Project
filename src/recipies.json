@@ -10,13 +10,53 @@
         "instructions": "Cut chicken breast into bite-sized pieces. In a wok or large skillet, heat oil over medium-high heat. Add minced garlic and ginger, then add chicken and cook until browned. Add chopped vegetables and soy sauce, stir-fry until vegetables are tender. Serve over cooked rice."
     },
     {
-        "name": "Chicken Stir Fry",
-        "ingredients": ["chicken breast", "soy sauce", "vegetables (e.g., bell peppers, broccoli, carrots)", "garlic", "ginger", "rice"],
-        "instructions": "Cut chicken breast into bite-sized pieces. In a wok or large skillet, heat oil over medium-high heat. Add minced garlic and ginger, then add chicken and cook until browned. Add chopped vegetables and soy sauce, stir-fry until vegetables are tender. Serve over cooked rice."
+        "name": "Chocolate Chip Cookies",
+        "ingredients": ["butter", "white sugar", "brown sugar", "eggs", "vanilla extract", "all-purpose flour", "baking soda", "salt", "chocolate chips"],
+        "instructions": "Preheat oven to 350 degrees F (175 degrees C). Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans. Bake for about 10 minutes in the preheated oven, or until edges are nicely browned."
     },
     {
-        "name": "Chicken Stir Fry",
-        "ingredients": ["chicken breast", "soy sauce", "vegetables (e.g., bell peppers, broccoli, carrots)", "garlic", "ginger", "rice"],
-        "instructions": "Cut chicken breast into bite-sized pieces. In a wok or large skillet, heat oil over medium-high heat. Add minced garlic and ginger, then add chicken and cook until browned. Add chopped vegetables and soy sauce, stir-fry until vegetables are tender. Serve over cooked rice."
+        "name": "Caesar Salad",
+        "ingredients": ["romaine lettuce", "Caesar dressing", "Parmesan cheese", "croutons"],
+        "instructions": "Wash and dry romaine lettuce leaves. Tear into bite-sized pieces. In a large bowl, toss romaine lettuce with Caesar dressing until evenly coated. Sprinkle with Parmesan cheese and croutons. Serve immediately."
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": ["bread", "cheese", "butter"],
+        "instructions": "Spread butter on one side of each slice of bread. Place one slice of bread, buttered side down, on a skillet over medium heat. Layer cheese on top of the bread slice, then place the other slice of bread on top, buttered side up. Cook until the bottom slice of bread is golden brown and the cheese is melted, then flip and cook until the other side is golden brown. Serve hot."
+    },
+    {
+        "name": "Chicken Parmesan",
+        "ingredients": ["chicken breast", "breadcrumbs", "Parmesan cheese", "spaghetti sauce", "mozzarella cheese", "olive oil"],
+        "instructions": "Preheat oven to 375 degrees F (190 degrees C). Coat chicken breasts in breadcrumbs mixed with Parmesan cheese. Heat olive oil in a skillet over medium-high heat, then cook chicken until golden brown on both sides. Place chicken in a baking dish, cover with spaghetti sauce, and top with mozzarella cheese. Bake in the preheated oven until cheese is melted and bubbly, about 25 minutes. Serve hot over cooked spaghetti."
+    },
+    {
+        "name": "Tacos",
+        "ingredients": ["ground beef", "taco seasoning", "taco shells", "lettuce", "tomato", "cheddar cheese", "sour cream", "salsa"],
+        "instructions": "Cook ground beef in a skillet over medium heat until browned. Drain excess fat, then stir in taco seasoning and water according to package instructions. Heat taco shells according to package instructions. Fill taco shells with cooked ground beef, lettuce, tomato, cheddar cheese, sour cream, and salsa. Serve hot."
+    },
+    {
+        "name": "Pasta Primavera",
+        "ingredients": ["pasta", "mixed vegetables (e.g., broccoli, bell peppers, carrots)", "olive oil", "garlic", "Parmesan cheese"],
+        "instructions": "Cook pasta according to package instructions. In a large skillet, heat olive oil over medium heat. Add minced garlic and cook until fragrant. Add mixed vegetables and cook until tender. Toss cooked pasta with vegetables, then sprinkle with Parmesan cheese. Serve hot."
+    },
+    {
+        "name": "Fruit Smoothie",
+        "ingredients": ["banana", "strawberries", "blueberries", "milk", "yogurt", "honey"],
+        "instructions": "Combine banana, strawberries, blueberries, milk, yogurt, and honey in a blender. Blend until smooth. Serve immediately."
+    },
+    {
+        "name": "Grilled Salmon",
+        "ingredients": ["salmon fillets", "lemon", "olive oil", "salt", "black pepper", "garlic powder"],
+        "instructions": "Preheat grill to medium-high heat. Rub salmon fillets with olive oil, then season with salt, black pepper, and garlic powder. Place salmon on the grill, skin-side down, and cook for about 5-7 minutes. Carefully flip salmon and cook for another 5-7 minutes, or until fish flakes easily with a fork. Squeeze lemon juice over salmon before serving."
+    },
+    {
+        "name": "Margarita Pizza",
+        "ingredients": ["pizza dough", "tomato sauce", "fresh mozzarella cheese", "fresh basil leaves", "olive oil", "salt", "black pepper"],
+        "instructions": "Preheat oven to 450 degrees F (230 degrees C). Roll out pizza dough on a baking sheet. Spread tomato sauce evenly over the dough, leaving a small border around the edges. Tear fresh mozzarella cheese into small pieces and scatter over the sauce. Top with fresh basil leaves, then drizzle with olive oil. Season with salt and black pepper. Bake in the preheated oven for about 12-15 minutes, or until crust is golden brown and cheese is melted and bubbly. Slice and serve hot."
+    },
+    {
+        "name": "Vegetable Soup",
+        "ingredients": ["carrots", "celery", "onion", "potatoes", "green beans", "tomatoes", "vegetable broth", "bay leaf", "salt", "black pepper"],
+        "instructions": "Dice carrots, celery, onion, and potatoes. Cut green beans into bite-sized pieces. In a large pot, heat olive oil over medium heat. Add diced vegetables and sauté until slightly softened. Add diced tomatoes, vegetable broth, bay leaf, salt, and black pepper. Bring to a boil, then reduce heat and simmer for about 20-25 minutes, or until vegetables are tender. Remove bay leaf before serving."
     }
 ]
