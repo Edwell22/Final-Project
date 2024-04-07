@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "eggs", "bacon", "Parmesan cheese", "black pepper"],
+        "instructions": "Cook spaghetti according to package instructions. In a separate pan, cook bacon until crispy. In a bowl, whisk together eggs, Parmesan cheese, and black pepper. Once spaghetti is cooked, drain and add to the pan with bacon. Pour egg mixture over spaghetti and quickly toss until eggs are cooked. Serve immediately."
+    },
+    {
+        "name": "Chicken Stir Fry",
+        "ingredients": ["chicken breast", "soy sauce", "vegetables (e.g., bell peppers, broccoli, carrots)", "garlic", "ginger", "rice"],
+        "instructions": "Cut chicken breast into bite-sized pieces. In a wok or large skillet, heat oil over medium-high heat. Add minced garlic and ginger, then add chicken and cook until browned. Add chopped vegetables and soy sauce, stir-fry until vegetables are tender. Serve over cooked rice."
+    },
+    {
+        "name": "Chicken Stir Fry",
+        "ingredients": ["chicken breast", "soy sauce", "vegetables (e.g., bell peppers, broccoli, carrots)", "garlic", "ginger", "rice"],
+        "instructions": "Cut chicken breast into bite-sized pieces. In a wok or large skillet, heat oil over medium-high heat. Add minced garlic and ginger, then add chicken and cook until browned. Add chopped vegetables and soy sauce, stir-fry until vegetables are tender. Serve over cooked rice."
+    },
+    {
+        "name": "Chicken Stir Fry",
+        "ingredients": ["chicken breast", "soy sauce", "vegetables (e.g., bell peppers, broccoli, carrots)", "garlic", "ginger", "rice"],
+        "instructions": "Cut chicken breast into bite-sized pieces. In a wok or large skillet, heat oil over medium-high heat. Add minced garlic and ginger, then add chicken and cook until browned. Add chopped vegetables and soy sauce, stir-fry until vegetables are tender. Serve over cooked rice."
+    }
+]
