@@ -1,4 +1,4 @@
-{"Yummy":[
+[
     {
         "name": "🍝 Spaghetti Carbonara",
         "ingredients": ["spaghetti", "eggs", "bacon", "Parmesan cheese", "black pepper"],
@@ -105,4 +105,3 @@
         "instructions": "Preheat oven to 425°F (220°C). Rinse whole chicken and pat dry."
     }
 ]
-}
