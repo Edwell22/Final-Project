@@ -85,7 +85,16 @@ img[alt="logo"] {
     
     
 }
+#recipes{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
 
+  
+}
+.recipe{
+    background-color: #ccc;
+}
 .hero {
     text-align: center; /* Center the content horizontally */
     max-width: 900px; /* Set the maximum width of the hero image container */
