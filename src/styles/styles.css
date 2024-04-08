@@ -92,10 +92,39 @@ img[alt="logo"] {
 
   
 }
-.recipe{
-    background-color:#A6C058
 
-    ;
+/* Media query for mobile devices (up to 767px) */
+@media only screen and (max-width: 767px) {
+    /* Your styles for mobile devices here */
+
+    /* Adjusting the layout to display two cards per row */
+    #recipes {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px; /* Adjust the gap between cards as needed */
+    }
+
+    /* Optional: Adjust the width of each card to fit the grid */
+    #recipes .recipe-card {
+        width: calc(50% - 10px); /* Subtracting the gap to prevent overflow */
+    }
+}
+
+
+/* Media query for tablets (768px to 1023px) */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    #recipes {
+        /* Your styles for tablets here */
+        /* For example: */
+        font-size: 16px;
+        padding: 20px;
+    }
+}
+
+
+.recipe{
+    background-color:#A6C058;
+    box-shadow: 5px 5px 5px 5px rgb(199, 117, 117);
 }
 .hero {
     text-align: center; /* Center the content horizontally */
@@ -111,8 +140,8 @@ img[alt="logo"] {
 
 #goat{
 
-    color: rgb(14, 209, 31);
-    background-color: rgb(14, 243, 14);
+    color: rgb(177, 166, 10);
+    background-color: rgb(194, 166, 8);
     height: 4px;
 
 
