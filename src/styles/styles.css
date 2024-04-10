@@ -92,23 +92,22 @@ img[alt="logo"] {
 
   
 }
-
 /* Media query for mobile devices (up to 767px) */
 @media only screen and (max-width: 767px) {
-    /* Your styles for mobile devices here */
-
-    /* Adjusting the layout to display two cards per row */
     #recipes {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 20px; /* Adjust the gap between cards as needed */
+        /* Adjust the display to show one card per row */
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
-    /* Optional: Adjust the width of each card to fit the grid */
+    /* Style each recipe card */
     #recipes .recipe-card {
-        width: calc(50% - 10px); /* Subtracting the gap to prevent overflow */
+        width: 90%; /* Adjust the width as needed */
+        margin: 10px;
     }
 }
+
 
 
 /* Media query for tablets (768px to 1023px) */
